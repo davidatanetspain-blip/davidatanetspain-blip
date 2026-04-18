@@ -2,15 +2,14 @@
 
 **Market Intelligence · Data Engineering · AI Automation**
 
-Building data products that turn raw marketplace signals into strategic decisions — from scraping pipelines to interactive dashboards.
-
 ---
 
-### What I'm working on
+### Areas
 
-- 🏗️ **[Rastriq](https://github.com/davidatanetspain-blip/rastriq-apify-actors)** — Apify Actor pipeline for automotive & heavy machinery marketplaces (Wallapop, Coches.net, Mascus, MachineryTrader, Rock&Dirt and more)
-- 🧠 **Cyclica** — Market intelligence platform for the heavy equipment industry (Tesya Group)
-- 🤖 **Claude Cowork Skills** — Custom AI skill library for market intelligence workflows
+- **Web scraping** — Marketplace data extraction at scale (REST APIs, Playwright, Algolia, SSR parsing)
+- **Market intelligence** — Pricing analysis, competitive positioning, depreciation curves
+- **Data pipelines** — ETL, entity matching, taxonomy normalization across multi-source datasets
+- **AI tooling** — Custom AI skills for automating research and data workflows
 
 ---
 
@@ -26,13 +25,4 @@ Building data products that turn raw marketplace signals into strategic decision
 
 ---
 
-### Areas
-
-- **Web scraping** — Marketplace data extraction at scale (REST APIs, Playwright, Algolia, SSR parsing)
-- **Market intelligence** — Pricing analysis, competitive positioning, depreciation curves
-- **Data pipelines** — ETL, entity matching, taxonomy normalization across multi-source datasets
-- **AI tooling** — Custom Claude skills for automating research and data workflows
-
----
-
-📍 Spain &nbsp;·&nbsp; 💼 [Astara Intelligence](https://astaraintelligence.com) &nbsp;·&nbsp; ✉️ david.atanet@astaraintelligence.com
+📍 Spain
